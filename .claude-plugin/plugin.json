@@ -1,0 +1,9 @@
+{
+  "name": "ravya-ai",
+  "version": "0.1.0",
+  "description": "AI automation system for CA firms - document organization, compliance tracking, and workflow automation for chartered accountants",
+  "author": {
+    "name": "Amit (Nikist)"
+  },
+  "keywords": ["ca-firm", "chartered-accountant", "document-organization", "compliance", "automation", "india"]
+}
